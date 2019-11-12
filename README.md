@@ -1,5 +1,7 @@
-# Arabic-Dictionaries
-Arabic Dictionaries
 
-# المعاجم-العربية
+<h1 dir="rtl">المعاجم العربية</h1>
+
+
+<p dir="rtl">
 المعاجم العربية
+</p>
