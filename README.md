@@ -1,4 +1,4 @@
-<h1 dir="rtl">Arabic dictionaries - المعاجم العربية</h1>
+<h1 dir="rtl">المعاجم العربية - Arabic dictionaries</h1>
 
 
 
