@@ -1,4 +1,4 @@
-<h1 dir="rtl" align="center">المعاجم العربية - Arabic dictionaries</h1>
+<h1 dir="rtl" align="center">:book:المعاجم العربية - Arabic dictionaries:book:</h1>
 
 <h3 dir="rtl">:star: لسان العرب</h3>
 <p dir="rtl">المؤلف: محمد بن مكرم بن على، أبو الفضل، جمال الدين ابن منظور الأنصاري الرويفعى الإفريقى (المتوفى: 711هـ)
