@@ -1,5 +1,14 @@
 <h1 dir="rtl" align="center">:book:المعاجم العربية - Arabic dictionaries:book:</h1>
 
+<h3 dir="rtl">:arrow_double_down: لتحميل الكتب :arrow_double_down:</h3>
+
+    git clone https://github.com/azermane/Arabic-Dictionaries.git
+
+<h3 dir="rtl">:arrow_double_down: لتحديث قائمة الكتب :arrow_double_down:</h3>
+
+    cd Arabic-Dictionaries
+    git pull
+
 <h3 dir="rtl">:star: لسان العرب</h3>
 <p dir="rtl">المؤلف: محمد بن مكرم بن على، أبو الفضل، جمال الدين ابن منظور الأنصاري الرويفعى الإفريقى (المتوفى: 711هـ)
 <p dir="rtl">الناشر: دار صادر - بيروت
@@ -12,12 +21,3 @@
 <p dir="rtl">الناشر: دار ومكتبة الهلال
 </p>
 
-<h3 dir="rtl">:arrow_double_down: لتحميل الكتب :arrow_double_down:</h3>
-
-    git clone https://github.com/azermane/Arabic-Dictionaries.git
-
-<h3 dir="rtl">:arrow_double_down: لتحديث قائمة الكتب :arrow_double_down:</h3>
-
-    cd Arabic-Dictionaries
-
-    git pull
