@@ -11,3 +11,13 @@
 <p dir="rtl">المحقق: د مهدي المخزومي، د إبراهيم السامرائي
 <p dir="rtl">الناشر: دار ومكتبة الهلال
 </p>
+
+<h3 dir="rtl">:arrow_double_down: لتحميل الكتب :arrow_double_down:</h3>
+
+    git clone https://github.com/azermane/Arabic-Dictionaries.git
+
+<h3 dir="rtl">:arrow_double_down: لتحديث قائمة الكتب :arrow_double_down:</h3>
+
+    cd Arabic-Dictionaries
+
+    git pull
