@@ -1,6 +1,4 @@
 ![GitHub Logo](https://github.com/azermane/Arabic-Dictionaries/blob/master/%D8%A7%D9%84%D9%85%D8%B9%D8%A7%D8%AC%D9%85-%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9.png)
-
-
 <h1 dir="rtl" align="center">:book:المعاجم العربية - Arabic dictionaries:book:</h1>
 
 <h2 dir="rtl">:arrow_double_down: لتحميل الكتب :arrow_double_down:</h2>
