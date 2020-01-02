@@ -4,6 +4,8 @@
 <h3 dir="rtl">:arrow_double_down: لتحميل الكتب :arrow_double_down:</h3>
 
     git clone https://github.com/azermane/Arabic-Dictionaries.git
+
+<h3 dir="rtl">حجم المستودع: 204 ميغا</h4>
 <h3 dir="rtl">:arrows_counterclockwise: لتحديث قائمة الكتب :arrows_counterclockwise:</h3>
 
     cd Arabic-Dictionaries
